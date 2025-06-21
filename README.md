@@ -1,8 +1,8 @@
 # 🚀 Simple Repo Manager
 
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario/simple-repo-manager?style=social)
-![GitHub forks](https://img.shields.io/github/forks/seu-usuario/simple-repo-manager?style=social)
-![MIT License](https://img.shields.io/github/license/seu-usuario/simple-repo-manager)
+![GitHub stars](https://img.shields.io/github/stars/iberno/SimpleRepoManager?style=social)
+![GitHub forks](https://img.shields.io/github/forks/iberno/SimpleRepoManager?style=social)
+![MIT License](https://img.shields.io/github/license/iberno/SimpleRepoRanager)
 
 ---
 
@@ -12,9 +12,7 @@
 
 ## 🖼️ Preview
 
-![Preview do App](link-da-sua-imagem.png)
-
-> Substitua esse link com uma captura real (ex: `docs/screenshot.png`) se quiser usar GitHub Pages
+![Preview do App](docs/SimpleRepoManager.png)
 
 ---
 
